@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='https://bit.ly/2KPBoGb' target='_blank'><img src='https://3.bp.blogspot.com/-SgylC8o_-WU/WwVmlIQ4PwI/AAAAAAAAFBg/RXaiT5JxWd8yNCIVqyq4ujJht-Y_u4oXwCLcBGAs/s320/logo-d%25E1%25BB%25B1-%25C3%25A1n-lotus-riverside-city-6-450x338.png' width='500px'/><br/>13 Mở Bán Đợt 1 Dự Án Lotus Reverside City </a>. Gía Gốc Chủ Đầu Tư.Liên Hệ:0909.625.138 Mr Tú. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='https://bit.ly/2KPBoGb' target='_blank'><img src='https://3.bp.blogspot.com/-SgylC8o_-WU/WwVmlIQ4PwI/AAAAAAAAFBg/RXaiT5JxWd8yNCIVqyq4ujJht-Y_u4oXwCLcBGAs/s320/logo-d%25E1%25BB%25B1-%25C3%25A1n-lotus-riverside-city-6-450x338.png' width='500px'/><br/> Mở Bán Đợt 1 Dự Án Lotus Reverside City </a>. Gía Gốc Chủ Đầu Tư.Liên Hệ:0909.625.138 Mr Tú. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
